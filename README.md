@@ -23,11 +23,11 @@ A simple, beginner-friendly calculator that runs in the terminal, written in Pyt
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Ru
 
-1. Open your terminal or command prompt  
-2. Navigate to the folder where the file is saved  
-3. Run the script with:
-
+🔹 Option 1: Using Git
 bash
-python calculatorproject.py
+Copiar código
+git clone https://github.com/Viktor-angelo/calculator-terminal.git
+cd calculator-terminal
+python calculator.py
