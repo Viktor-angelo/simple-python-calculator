@@ -1,10 +1,10 @@
-# 🧮 Terminal Calculator
+# Terminal Calculator
 
 A simple, beginner-friendly calculator that runs in the terminal, written in Python.
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Addition  
 - ✅ Subtraction  
@@ -16,18 +16,19 @@ A simple, beginner-friendly calculator that runs in the terminal, written in Pyt
 
 ---
 
-## 💻 Technologies
+##  Technologies
 
 - Python 3.x  
 - ANSI escape codes for color formatting in the terminal  
 
 ---
 
-## ▶️ How to Ru
+##  How to Ru
 
-🔹 Option 1: Using Git
+ Option 1: Using Git
 bash
 Copiar código
 git clone https://github.com/Viktor-angelo/calculator-terminal.git
 cd calculator-terminal
 python calculator.py
+
